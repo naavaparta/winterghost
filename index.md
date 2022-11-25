@@ -8,4 +8,4 @@ Tervetuloa Talvihaamun suomenkieliseen digitaalipuutarhaan!
 
 Pikseliporkkanoiden sijasta löydät orgaanisesti kasvavan puutarhan täynnä muistiinpanoja asioista, jotka milloinkin sattuvat kiinnostamaan.
 
-<a href="about.md">Tietoa minusta</a> ja <a href="archive.md">arkisto</a> löytyvät tuolta.
+<a href="_pages/about.md">Tietoa minusta</a> ja <a href="_pages/archive.md">arkisto</a> löytyvät tuolta.
