@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Arkisto
 ---
 <ul class="archive">
 {% for note in site.notes %}
