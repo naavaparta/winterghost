@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Welcome to Winterghost
+title: Terve, terve!
 id: home
 ---
 
-Let's see what this does.
+Tervetuloa Talvihaamun suomenkieliseen digitaalipuutarhaan!
+
+Pikseliporkkanoiden sijasta löydät orgaanisesti kasvavan puutarhan täynnä muistiinpanoja asioista, jotka milloinkin sattuvat kiinnostamaan.
